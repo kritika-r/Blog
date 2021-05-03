@@ -31,3 +31,34 @@
 .movie_text span{
     color: black;
 }
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding:8px;
+}
+.environment_li img{
+    border-radius: 25px;
+}
+.environment_li p{
+    margin-top:10px;
+}
+#contact h5{
+    display:inline-block;
+}
+#contact{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#contact img{
+    padding-left:120px;
+    
+}
+.contact1{
+    padding-right:50px;
+}
+iframe{
+   margin-bottom: 25px;
+}
